@@ -17,6 +17,9 @@
   text-decoration: none;
   width: 100%;
   border: none;
+  font-size: 1rem;
+  -webkit-text-fill-color: #000 !important;
+  -webkit-box-shadow: 0 0 0 30px #ffebee inset !important;
 }
 
 .searchInput:focus {
@@ -36,6 +39,8 @@
   border: 1px solid #000;
   width: 25%;
   margin: 1rem;
+  background-color: #a0cee6;
+  border-radius: 5px;
 }
 
 .bookTitle {

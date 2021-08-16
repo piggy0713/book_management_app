@@ -1,0 +1,8 @@
+.bookForm {
+  display: inline-grid;
+  row-gap: 1rem;
+}
+
+.errorInfo {
+  color: #be4d25;
+}

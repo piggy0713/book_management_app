@@ -1,0 +1,55 @@
+.btn-add {
+  text-decoration: none;
+  line-height: 1.5rem;
+  background-color: #9925be;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+.searchContainer {
+  margin: 1rem;
+  border-bottom: 1px solid #000;
+}
+.searchInput {
+  margin: 1rem;
+  text-decoration: none;
+  width: 100%;
+  border: none;
+}
+
+.searchInput:focus {
+  outline: none;
+}
+.bookListTitle {
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin: 1rem;
+}
+
+.bookList {
+  display: flex;
+}
+
+.bookContainer {
+  border: 1px solid #000;
+  width: 25%;
+  margin: 1rem;
+}
+
+.bookTitle {
+  text-transform: uppercase;
+}
+
+.btn-edit {
+  background-color: #2596be;
+  margin: 0.4rem;
+  color: #fff;
+}
+
+.btn-del {
+  margin: 0.4rem;
+  color: #fff;
+  background-color: #be4d25;
+}
